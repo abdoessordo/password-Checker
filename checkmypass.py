@@ -37,4 +37,5 @@ def main(*args):
 		else:
 			print(f'"{password}" was never hacked.')
 
-main('123', 'Hello', 'Salam', '123456789', 'asdasfaifbasdnasjdn')
+if __name__ == '__name__':
+	main('123', 'Hello', 'Salam', '123456789', 'asdasfaifbasdnasjdn')
